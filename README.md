@@ -6,8 +6,7 @@ AI Racer is a racing game developed using Pygame, where an AI-controlled car avo
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
