@@ -35,11 +35,11 @@ python test.py
 ```
 ## Technologies
 
-Python 3.8
-Pygame 2.1.0: For developing the game environment.
-NumPy 1.21.0: For numerical operations.
-PyTorch 1.10.0: For building and training the neural network.
-Matplotlib 3.4.3: For plotting graphs and visualizing performance metrics.
+- **Python 3.8**
+- **Pygame 2.1.0**: For developing the game environment.
+- **NumPy 1.21.0**: For numerical operations.
+- **PyTorch 1.10.0**: For building and training the neural network.
+- **Matplotlib 3.4.3**: For plotting graphs and visualizing performance metrics.
 
 ![image](https://github.com/umitcan246/AI-Racer/assets/56133149/77a6edfc-5c97-4ea6-9b49-5f1c98b8bc17)
 
