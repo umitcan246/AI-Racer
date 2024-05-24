@@ -12,7 +12,7 @@ AI Racer is a racing game developed using Pygame, where an AI-controlled car avo
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-racer.git
+git clone https://github.com/umitcan246/ai-racer.git
 cd ai-racer
 
 ```
